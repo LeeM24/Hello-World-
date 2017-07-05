@@ -1,3 +1,4 @@
 # LeeM24
 
- My first repository.
+Programmini super-basilari creati interamente da me.
+La mia prima Repository.
